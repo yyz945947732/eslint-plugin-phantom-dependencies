@@ -1,0 +1,20 @@
+name: "Test"
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Install
+        run: yarn
+
+      - name: Test
+        run: yarn test

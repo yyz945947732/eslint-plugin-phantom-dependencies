@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-phantom-dependencies-example",
+  "version": "1.0.0",
+  "description": "Some example of usage of plugin",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-plugin-phantom-dependencies": ".."
+  },
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
