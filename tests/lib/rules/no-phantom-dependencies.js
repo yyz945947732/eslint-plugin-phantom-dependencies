@@ -27,7 +27,7 @@ cjsRuleTester.run("no-phantom-dependencies", rule, {
       errors: [
         {
           message:
-            '"yargs-parser" is a phantom dependencies in your project. Please add it to "package.json".',
+            '"yargs-parser" is a phantom dependency in your project. Please add it to "package.json".',
         },
       ],
       options: [

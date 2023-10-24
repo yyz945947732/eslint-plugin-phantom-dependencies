@@ -6,7 +6,7 @@
 
 ## Rule Details
 
-This rule aims to make sure no phantom dependencies are used in your project.
+This rule aims to make sure no [phantom dependencies](https://datacadamia.com/code/shipping/phantom) are used in your project.
 
 ### Options
 
