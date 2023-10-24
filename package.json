@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-phantom-dependencies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make sure no phantom dependencies are used in your project.",
   "keywords": [
     "phantom-dependencies",
