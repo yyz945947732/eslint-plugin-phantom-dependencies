@@ -66,5 +66,5 @@ If you're using [pnpm](https://pnpm.io). then maybe you don't need to use it.
 
 ## Further Reading
 
-[What are Phantom Dependencies](https://dev.to/lico/are-you-sure-what-packages-youre-using-are-in-packagejsonphantom-dependency-1m4i)
-[@sugarat/phantom](https://github.com/ATQQ/tools/blob/main/packages/cli/phantom/README.md)
+- [What are Phantom Dependencies](https://dev.to/lico/are-you-sure-what-packages-youre-using-are-in-packagejsonphantom-dependency-1m4i)
+- [@sugarat/phantom](https://github.com/ATQQ/tools/blob/main/packages/cli/phantom/README.md)
